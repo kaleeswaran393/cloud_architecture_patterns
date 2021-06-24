@@ -15,3 +15,9 @@ https://www.enterpriseintegrationpatterns.com/patterns
 https://microservices.io/patterns/
 
 
+https://12factor.net/
+
+
+
+
+
