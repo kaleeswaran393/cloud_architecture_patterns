@@ -12,6 +12,6 @@ https://www.enterpriseintegrationpatterns.com/patterns
 
 
 
-https://microservices.io/patterns/microservices.html
+https://microservices.io/patterns/
 
 
