@@ -25,6 +25,12 @@ https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f
 
 
 
+https://www.redhat.com/architect/topics/career
+
+
+
+
+
 https://www.ibm.com/cloud/blog/four-architecture-choices-for-application-development
 
 
